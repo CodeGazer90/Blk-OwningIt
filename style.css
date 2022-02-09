@@ -1,5 +1,14 @@
-*{
+.section1{
+    background-color: black;
+}
+
+.section2{
+    background-color: black;
+}
+
+body{
     background-image: url('/IMG/blackmarblebackground.jpg');
+    color: white;
 }
 
 h1{
@@ -8,16 +17,31 @@ h1{
 
 #nav {
     list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    border-style: double;
+    font-size: 20px;
 }
 
 a, a:visited{
-    color:black;
+    color:white;
 }
 
 a:hover{
     color: gold;
 }
 
-.slogan{
+.light{
     color:white;
+    text-align: center;
+    font-size: 
+}
+
+#blk{
+    font-family: 'Great Vibes', cursive;
+    /* font-family: 'Dancing Script', cursive; */
+}
+
+p{
+    text-align: center;
 }
