@@ -1,0 +1,23 @@
+*{
+    background-image: url('/IMG/blackmarblebackground.jpg');
+}
+
+h1{
+    color: white;
+}
+
+#nav {
+    list-style-type: none;
+}
+
+a, a:visited{
+    color:black;
+}
+
+a:hover{
+    color: gold;
+}
+
+.slogan{
+    color:white;
+}
