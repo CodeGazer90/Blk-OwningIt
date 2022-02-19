@@ -45,3 +45,29 @@ a:hover{
 p{
     text-align: center;
 }
+
+/* About page */
+
+.aboutpara{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    border: 1px solid white;
+    background-color: white;
+    padding: 15px;
+    border-radius: 20%;
+}
+
+.aboutcontent{
+    width: 500px;
+    padding-left: 500px;
+}
+
+#aboutheading{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#aboutimg1{
+    width:500px;
+}
