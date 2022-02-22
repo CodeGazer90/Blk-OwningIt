@@ -38,12 +38,32 @@ body::before {
     padding-top: 30px;
 }
 
+.content-about{
+    margin-top: 20px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.486);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 20px;
+}
+
 .welcome{
     font-size: 20px;
 }
 
-.navbar-text{
-    color:gold;
+
+#aboutheading{
+    text-decoration: underline;
+}
+
+#aboutimg1{
+    width: 400px;
+    box-shadow: 10px 10px gold;
+}
+
+.owner{
+    background-color: rgba(255, 217, 0, 0.301);
+    margin: 100px;
 }
 
 /* #nav {
