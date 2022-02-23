@@ -54,6 +54,7 @@ body::before {
 
 #aboutheading{
     text-decoration: underline;
+    text-decoration-thickness: 2px;
 }
 
 #aboutimg1{
@@ -64,6 +65,10 @@ body::before {
 .owner{
     background-color: rgba(255, 217, 0, 0.301);
     margin: 100px;
+}
+
+.col{
+    border: 5px solid black
 }
 
 /* #nav {
