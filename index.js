@@ -18,16 +18,37 @@ function sendEmail() {
 btn.addEventListener('click', sendEmail);
 
 
+let btn1 = document.getElementById('btn1');
+let btn2 = document.getElementById('btn2');
+let btn3 = document.getElementById('btn3');
 
-let rotate = document.getElementsByClassName('aboutimg');
-
-function rotateImg(){
-    rotate.style.transform = "rotate(90deg)";
+function inquire(){
+    document.location.href="contact.html";
 }
 
-rotate.addEventListener('onmouseover', rotateImg);
+btn1.addEventListener('click', inquire);
+btn2.addEventListener('click', inquire);
+btn3.addEventListener('click', inquire);
 
 
+// let rotate = document.getElementById('1photo');
+
+// function rotateImg(){
+//     rotate.style.transform = "rotate(90deg)";
+// }
+
+// rotate.addEventListener('mouseover', rotateImg);
+
+//rotating the images on the services page
+
+// let box = document.querySelectorAll('.services');
+// let spin = box.querySelectorAll('img.rotate');
+
+// spin.forEach(function(element) {
+//     element.addEventListener("mouseenter", function() {
+//         this.classList.add("rotate");
+//     })
+// });
 
 // function sendEmail(){
 //     Host:"smtp.mailtrap.io",
