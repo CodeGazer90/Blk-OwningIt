@@ -40,7 +40,7 @@ body::before {
 }
 
 .content-about{
-    margin-top: 20px;
+    margin-top: 100px;
     text-align: center;
     background: rgba(255, 255, 255, 0.486);
     padding-bottom: 30px;
@@ -87,6 +87,7 @@ body::before {
 }
 
 #phillyskyline{
+    margin-top:100px;
     width:600px;
     opacity: 0.9;
 
@@ -230,6 +231,8 @@ button{
 iframe{
     margin-top: 100px;
 }
+
+
 /* #nav {
     list-style-type: none;
     display: flex;
