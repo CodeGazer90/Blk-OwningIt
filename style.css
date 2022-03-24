@@ -221,6 +221,15 @@ button{
  color: black;
  font-size: 48px;
 }
+
+#weddingh2{
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+
+iframe{
+    margin-top: 100px;
+}
 /* #nav {
     list-style-type: none;
     display: flex;
