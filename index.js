@@ -17,6 +17,16 @@ function sendEmail() {
 
 btn.addEventListener('click', sendEmail);
 
+
+
+let rotate = document.getElementsByClassName('aboutimg');
+
+function rotateImg(){
+    rotate.style.transform = "rotate(90deg)";
+}
+
+rotate.addEventListener('onmouseover', rotateImg);
+
 // function sendEmail(){
 //     Host:"smtp.mailtrap.io",
 //     Username:"340d2ede7888b8",

@@ -62,11 +62,19 @@ body::before {
 }
 
 
-#aboutheading{
+.aboutheading{
     text-decoration: underline;
     text-decoration-thickness: 2px;
 }
 
+.aboutpara{
+    padding: 30px;
+}
+
+.aboutpara2{
+    padding-bottom: 30px;
+    
+}
 #aboutimg1{
     width: 400px;
     box-shadow: 10px 10px gold;
@@ -94,6 +102,11 @@ button{
     margin-top: 20px;
 }
 
+.aboutimg{
+    width:300px;
+    height: 300px;
+    padding-bottom: 30px;
+}
 
 /* #nav {
     list-style-type: none;
