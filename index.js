@@ -34,6 +34,16 @@ function spotlight(){
     document.location.href="https://kouturescrubwear.com/";
 }
 
+function sizeUp(){
+    let pop = document.getElementById("scrubs1");
+    pop.style.width = "400px";
+}
+
+function sizeDown(){
+    let pop = document.getElementById("scrubs1");
+    pop.style.width = "300px";
+}
+
 // let rotate = document.getElementById('1photo');
 
 // function rotateImg(){
