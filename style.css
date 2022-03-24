@@ -57,6 +57,36 @@ body::before {
 
 }
 
+.services{
+    border: 5px solid black;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 20px;
+    color:aliceblue;
+    
+}
+
+.service{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+   
+}
+
+.service img{
+    padding: 20px;
+}
+
+#serviceh2{
+    margin-bottom: 50px;
+}
+
+#phillyskyline{
+    width:600px;
+    opacity: 0.9;
+
+}
 .welcome{
     font-size: 20px;
 }
