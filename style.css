@@ -172,7 +172,7 @@ button{
     
 }
 
-#brands{
+#brands, #events, #popups, #spotlights{
     background-color: rgba(255, 255, 255, 0.336);
     
 }
@@ -181,17 +181,44 @@ button{
     text-decoration: underline;
 }
 
-#brands{
+#brands, #events{
     display: flex;
     justify-content: space-around;
 
 }
 
-#jusssjesss, #candles, #cakes{
+#jusssjesss, #candles, #cakes, #tata, #blkevent, #scrubs1, #scrubs2, #scrubs3, #interview{
     border: 1px solid black;
     box-shadow: 5px 5px 5px 5px gray;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+#interview{
+    margin: 100px;
+    height: 600px;
+    background-color: rgba(255, 255, 255, 0.336);
+}
+
+#interview p{
+    font-weight: bold;
+    margin: 50px;
+}
+
+#popups p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#scrubs h3{
+    color: gold;
+    margin-top: 30px;
+
+}
+
+#scrubs h3:hover{
+ color: black;
+ font-size: 48px;
 }
 /* #nav {
     list-style-type: none;

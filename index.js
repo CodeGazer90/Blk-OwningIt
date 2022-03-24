@@ -30,6 +30,9 @@ btn1.addEventListener('click', inquire);
 btn2.addEventListener('click', inquire);
 btn3.addEventListener('click', inquire);
 
+function spotlight(){
+    document.location.href="https://kouturescrubwear.com/";
+}
 
 // let rotate = document.getElementById('1photo');
 
