@@ -59,10 +59,12 @@ body::before {
 
 .services{
     border: 5px solid black;
+    padding: 20px;
     margin-left: 25%;
     margin-right: 25%;
     margin-bottom: 20px;
-    color:aliceblue;
+    color: white;
+    font-size: 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -98,13 +100,9 @@ body::before {
 }
 
 
-.aboutheading{
-    text-decoration: underline;
-    text-decoration-thickness: 2px;
-}
-
 .aboutpara{
     padding: 30px;
+    font-weight: bold;
 }
 
 .aboutpara2{
@@ -114,6 +112,7 @@ body::before {
 #aboutimg1{
     width: 400px;
     box-shadow: 10px 10px gold;
+    margin: 30px;
 }
 
 .owner{
@@ -189,6 +188,10 @@ button{
 
 }
 
+#try{
+    :50px;
+}
+
 #jusssjesss, #candles, #cakes, #tata, #blkevent, #scrubs1, #scrubs2, #scrubs3, #interview{
     border: 1px solid black;
     box-shadow: 5px 5px 5px 5px gray;
@@ -233,7 +236,7 @@ iframe{
 }
 
 .glow {
-    padding: 80px;
+    padding: 40px;
     font-size: 60px;
     color: #fff;
     text-align: center;
