@@ -1,1 +1,3 @@
-# Blk-OwningIt
+# Black & Owning It
+### As my capstone project for the Technology Career Program Winter 2022 Front End Web Development program with TechBridge, I chose to design a website for a friend who recently began an event promotion and planning business. Originally I was going to create something original of my own but instead I chose to challenge myself by creating a site that began as someone else's vision yet needed to be brought to life by my new skills. My client, Allyse, was very easy to work with as her only request was that the site incorporate the colors black and gold. 
+### Allyse's business called Black & Owning It, brings light to small businesses, pop up shops, networking and community events of Philadelphia. People can either visit the site to find the latest events going on around the city, or to inquire about having their own business showcased on the home page.
